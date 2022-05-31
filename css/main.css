@@ -12,7 +12,7 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  background: url('images/Neighborhood.jpg');
+  background: url('../images/Neighborhood.jpg');
   background-size: cover;
   background-position-x: 40%;
   background-position-y: 40%;
